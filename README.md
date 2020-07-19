@@ -9,5 +9,13 @@
 ## Goal
 
 - Understand Vanilla JS
-- Using API to knowing location and weather
+- Using API
 - Cloning Momentum
+
+## Functions
+
+- Clock
+- To Do List
+- Location based Weather
+- Random background images
+- Offline Support

@@ -41,8 +41,8 @@ function paintTodo(text) {
     text: text,
     id: newId,
   };
-  toDos.push(toDoObj); // 입력 내용 넣어줌
-  saveToDOs();
+  toDos.push(toDoObj); // 1. 입력 내용 넣어줌
+  saveToDOs(); // 2. 넣어준 내용 저장
 }
 
 function handleSubmit(event) {

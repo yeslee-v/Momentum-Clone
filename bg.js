@@ -1,6 +1,6 @@
 const body = document.querySelector("body");
 
-const IMG_NUMBER = 7;
+const IMG_NUMBER = 7; // 원하는 숫자 사용하면 원하는 대로 바뀐다
 
 function paintImage(imgNumber) {
   const image = new Image();
