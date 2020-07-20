@@ -20,13 +20,15 @@ body {
   align-items: center;
 }
 
-.js-clock {
-  font-size: 60px;
+.js-clock h1 {
+  font-size: 100px;
+  margin: 0px;
 }
 
 .form,
 .greetings {
   display: none;
+  margin: 30px;
 }
 
 .showing {
@@ -42,7 +44,6 @@ body {
   border-right: 0px;
   border-top: 0px;
   border-left: 0px;
-  margin-bottom: 50px;
   padding-bottom: 10px;
 }
 
